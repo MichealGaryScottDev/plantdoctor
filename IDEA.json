@@ -1,0 +1,31 @@
+{
+  "slug": "plantdoctor",
+  "title": "PlantDoctor",
+  "tagline": "Photograph a sad plant, learn what's wrong.",
+  "description": "Upload a photo of a houseplant showing symptoms and get a likely diagnosis plus a care checklist to nurse it back.",
+  "niche": "Houseplant owners",
+  "pages": [
+    "/",
+    "/diagnose"
+  ],
+  "visualDirection": "Clean botanical aesthetic with generous whitespace, using Inter for UI paired with subtle leaf illustrations as decorative elements. Muted sage backgrounds contrast with deep forest-green accents and warm terracotta highlights for actionable buttons.",
+  "colorPalette": {
+    "bg": "#fafaf9",
+    "fg": "#1c1917",
+    "accent": "#166534",
+    "muted": "#78716c"
+  },
+  "fontPairing": {
+    "display": "Inter",
+    "body": "Inter"
+  },
+  "features": [
+    "Photo diagnosis",
+    "Care checklist",
+    "Watering schedule suggestion",
+    "Save plant profiles"
+  ],
+  "scopeNotes": "One AI vision call per diagnosis, informational not guaranteed accurate.",
+  "usesAi": true,
+  "catalogId": 26
+}
